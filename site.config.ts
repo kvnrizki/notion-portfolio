@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Kevin Rizki's Portfolio",
-  domain: 'kvnrizki.com',
+  domain: 'kevinrizki.com',
   author: 'Kevin Rizki',
 
   // open graph metadata (optional)
